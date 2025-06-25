@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    I am Md. Shamiul Islam, a frontend developer with over two years of experience in crafting responsive and visually engaging websites. Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS, I excel in creating user-centric designs that enhance user experience. My projects reflect my commitment to quality and innovation, and I’ve successfully collaborated on various web applications that have received positive feedback for their functionality and aesthetics. I’m eager to leverage my skills in new challenges and contribute to impactful projects.
+    I am Md. Shamiul Islam, a frontend developer with over two years of experience in crafting responsive and visually engaging websites. Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS, I excel in creating user-centric designs that enhance user experience.
   </p>
 </div>
 
@@ -23,9 +23,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Surge](https://img.shields.io/badge/Surge-000000?style=for-the-badge&logo=surge&logoColor=white)
+![node](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![mongodb](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![express](https://img.shields.io/badge/Surge-000000?style=for-the-badge&logo=surge&logoColor=white)
 
 
 ### 🛠 **Tools & Platforms**
@@ -40,10 +40,7 @@
 
 # 📫 How to Reach Me?
 
-## 🚀 Portfolio - Coming Soon...
 
-[![Portfolio-coming soon](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-**Coming Soon... Stay Tuned!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shamiul-islam-24a668327/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsamiulislam54)
@@ -54,20 +51,6 @@
 
 
 
-<div align="center">
-
-  # 🏆 Featured Projects
-  ## 1️⃣ **Color Picker App 🎨**
-🔗 [Live Demo](https://mdsamiulislam54.github.io/rgb_hex_color_picker_app/)  
-🔗 [GitHub Repo](https://github.com/mdsamiulislam54/rgb_hex_color_picker_app)  
-📌 **Technologies Used:** HTML, CSS, JavaScript  
-
-## 2️⃣ **News API Website 📰**
-🔗 Live Demo: [Coming Soon]  
-🔗 [GitHub Repo](https://github.com/mdsamiulislam54/news-api-app)  
-📌 **Technologies Used:** React, Tailwind CSS, News API  
-
-</div>
 
 ## 📊 GitHub Stats  
 <div align="center">
