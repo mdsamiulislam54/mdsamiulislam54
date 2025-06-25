@@ -48,59 +48,58 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamiulislam54&theme=github-dark-blue" alt="mdsamiulislam54's Streak Stats" style="max-width: 100;"/>
 
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Weekly Development Breakdown</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
 
-  <h2>Weekly Development Breakdown</h2>
-  <canvas id="myChart" width="400" height="200"></canvas>
+#### 🏊‍♂️ Weekly Development Breakdown
 
-  <script>
-    var ctx = document.getElementById('myChart').getContext('2d');
-    var myChart = new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
-        datasets: [{
-          label: 'HTML',
-          data: [3, 4, 2, 5, 4, 3, 4],
-          backgroundColor: 'rgba(255, 99, 132, 0.2)',
-          borderColor: 'rgba(255, 99, 132, 1)',
-          borderWidth: 1
-        },
-        {
-          label: 'CSS',
-          data: [2, 3, 4, 3, 2, 4, 3],
-          backgroundColor: 'rgba(54, 162, 235, 0.2)',
-          borderColor: 'rgba(54, 162, 235, 1)',
-          borderWidth: 1
-        },
-        {
-          label: 'JavaScript',
-          data: [4, 2, 3, 3, 4, 3, 2],
-          backgroundColor: 'rgba(255, 159, 64, 0.2)',
-          borderColor: 'rgba(255, 159, 64, 1)',
-          borderWidth: 1
-        }]
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true
-          }
-        }
-      }
-    });
-  </script>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+</picture>
 
-</body>
-</html>
+</td>
+<td valign="top" width="50%">
 
+#### 🧑‍💻 <a href="https://github.com/mdsamiulislam54" target="_blank">Recent Development Projects</a>
 
+<!-- recent_projects starts -->
+* <a href="https://github.com/mdsamiulislam54/portfolio" target="_blank">Portfolio Website - Responsive Design & Tailwind CSS</a> - 2025-06-25
+* <a href="https://github.com/mdsamiulislam54/color-picker-app" target="_blank">Color Picker App - RGB/Hex Color Generator</a> - 2025-06-20
+* <a href="https://github.com/mdsamiulislam54/news-api-app" target="_blank">News App - Fetching News Using Async/Await</a> - 2025-06-15
+* <a href="https://github.com/mdsamiulislam54/interactive-skills-section" target="_blank">Interactive Skills Section - Frontend Developer Skills</a> - 2025-06-10
+<!-- recent_projects ends -->
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 📚 <a href="https://mdsamiulislam54.github.io/blog/" target="_blank">Recent Blog</a>
+
+<!-- blog starts -->
+* <a href='https://mdsamiulislam54.github.io/blog/2025/06/05/frontend-portfolio-tips.html' target='_blank'>Building a Portfolio Website as a Frontend Developer</a> - 2025-06-05
+* <a href='https://mdsamiulislam54.github.io/blog/2025/06/02/javascript-async-await.html' target='_blank'>JavaScript Async/Await - A Beginner’s Guide</a> - 2025-06-02
+* <a href='https://mdsamiulislam54.github.io/blog/2025/05/30/tailwind-css-vs-bootstrap.html' target='_blank'>Tailwind CSS vs Bootstrap - Which One to Choose?</a> - 2025-05-30
+* <a href='https://mdsamiulislam54.github.io/blog/2025/05/28/understanding-react-hooks.html' target='_blank'>Understanding React Hooks - useState & useEffect</a> - 2025-05-28
+<!-- blog ends -->
+
+</td>
+<td valign="top" width="50%">
+
+#### 🌍 <a href="https://github.com/mdsamiulislam54" target="_blank">My GitHub Contributions</a>
+
+<!-- github starts -->
+
+* <a href='https://github.com/mdsamiulislam54' target='_blank'>My GitHub Profile - Full of Projects and Contributions</a>
+* <a href='https://github.com/mdsamiulislam54/react-projects' target='_blank'>React Projects - Explore My React Learning Journey</a>
+* <a href='https://github.com/mdsamiulislam54/frontend-projects' target='_blank'>Frontend Projects - HTML, CSS, JavaScript, Tailwind</a>
+* <a href='https://github.com/mdsamiulislam54/javascript-tutorials' target='_blank'>JavaScript Tutorials - Learn with Me!</a>
+
+<!-- github ends -->
+
+</td>
+</tr>
+</table>
