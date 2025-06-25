@@ -1,12 +1,59 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 style="display: flex; align-items: center; justify-content: center; font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #333;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px;" />
+  Hey! Nice to see you.
+</h1>
 
-
-<p>
-  Welcome to my page! </br>
+<p style="font-family: 'Arial', sans-serif; font-size: 1.2rem; color: #555; line-height: 1.8;">
+  Welcome to my page! <br/>
   I'm Shamiul, a full-stack developer from 
-  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13"/> <b>Rangpur, Bangladesh</b>, 
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13" style="vertical-align: middle; margin-right: 5px;" />
+  <b style="color: #3498db;">Rangpur, Bangladesh</b>, 
   Currently living in 
-  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13"/> <b>Shadullapur, Gaibandha</b>.
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13" style="vertical-align: middle; margin-right: 5px;" />
+  <b style="color: #3498db;">Shadullapur, Gaibandha</b>.
+</p>
+
+<div style="display: flex; justify-content: center; margin-top: 30px;">
+  <a href="https://www.linkedin.com/in/mdsamiulislam54/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;" />
+  </a>
+  <a href="https://github.com/mdsamiulislam54" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 15px;" />
+  </a>
+  <a href="https://twitter.com/mdsamiulislam54" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+<style>
+  /* Adding hover effects for links */
+  a:hover img {
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+  }
+
+  /* Styling the introduction text */
+  p {
+    text-align: center;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  /* Adding a fade-in effect for the page */
+  body {
+    animation: fadeIn 2s ease-out;
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
 </p>
 
 <h3>Things I code with</h3>
