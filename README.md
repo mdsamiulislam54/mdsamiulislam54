@@ -3,10 +3,10 @@
 
 <p>
   Welcome to my page! </br>
-  I'm Shamiul, full-stack developer from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197591.png" width="13"/> <b>Rangpur, Bangladesh</b>, 
+  I'm Shamiul, a full-stack developer from 
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13"/> <b>Rangpur, Bangladesh</b>, 
   Currently living in 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197591.png" width="13"/> <b>Shadullapur, Gaibandha</b>.
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13"/> <b>Shadullapur, Gaibandha</b>.
 </p>
 
 <h3>Things I code with</h3>
