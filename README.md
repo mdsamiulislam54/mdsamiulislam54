@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<p align="start "  style="display: flex; justify-content: center; align-items: center; gap: 30; flex-wrap: wrap; padding: 20;">
+<p align="start "  style="display: flex; justify-content: center; align-items: center; gap: 10;  padding: 10;">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsamiulislam54&show_icons=true&theme=github_dark" alt="mdsamiulislam54's GitHub Stats" />
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamiulislam54&theme=github-dark-blue" alt="mdsamiulislam54's Streak Stats" style="max-width: 100;"/>
