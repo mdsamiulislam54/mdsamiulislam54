@@ -1,3 +1,5 @@
+![banner](https://i.postimg.cc/tCv2LtQt/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+
 <h1 style="display: flex; align-items: center; justify-content: center; font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #333;">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px;" />
   Hey! Nice to see you.
