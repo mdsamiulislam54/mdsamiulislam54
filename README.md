@@ -42,4 +42,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsamiulislam54&show_icons=true&theme=github_dark" alt="mdsamiulislam54's GitHub Stats" />
+</p>
+
+
 
