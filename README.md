@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    I am Md. Shamiul Islam, a frontend developer with over two years of experience in crafting responsive and visually engaging websites. Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS, I excel in creating user-centric designs that enhance user experience.
+Frontend Developer | 2+ yrs experience | HTML, CSS, JS, React, Tailwind | Focused on clean, responsive & user-first designs.
   </p>
 </div>
 
@@ -26,6 +26,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 
 
