@@ -3,22 +3,22 @@
   Hey! Nice to see you.
 </h1>
 
-<p style="font-family: 'Arial', sans-serif; font-size: 1.2rem; color: #555; line-height: 1.8;">
+<p style="font-family: 'Arial', sans-serif; font-size: 1.2; color: #555; line-height: 1.8;">
   Welcome to my page! <br/>
   I'm Shamiul, a full-stack developer from 
-  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13" style="vertical-align: middle; margin-right: 5px;" />
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13" style="vertical-align: middle; margin-right: 5;" />
   <b style="color: #3498db;">Rangpur, Bangladesh</b>, 
   Currently living in 
-  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13" style="vertical-align: middle; margin-right: 5px;" />
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197509.png" width="13" style="vertical-align: middle; margin-right: 5;" />
   <b style="color: #3498db;">Shadullapur, Gaibandha</b>.
 </p>
 
-<div style="display: flex; justify-content: center; margin-top: 30px;">
+<div style="display: flex; justify-content: center; margin-top: 30;">
   <a href="https://www.linkedin.com/in/mdsamiulislam54/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15;" />
   </a>
   <a href="https://github.com/mdsamiulislam54" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 15px;" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 15;" />
   </a>
   <a href="https://twitter.com/mdsamiulislam54" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -27,9 +27,9 @@
 
 <style>
   /* Adding hover effects for links */
-  a:hover img {
+  a: hover img {
     transform: scale(1.1);
-    transition: all 0.3s ease;
+    transition: all 0.3 ease;
   }
 
   /* Styling the introduction text */
