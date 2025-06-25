@@ -1,7 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm shamiul, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Rangpur, Bangladesh</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Shadullapur, Gaibandha</b>. </p>
+<p>
+  Welcome to my page! </br>
+  I'm Shamiul, full-stack developer from 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197591.png" width="13"/> <b>Rangpur, Bangladesh</b>, 
+  Currently living in 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197591.png" width="13"/> <b>Shadullapur, Gaibandha</b>.
+</p>
+
 <h3>Things I code with</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
