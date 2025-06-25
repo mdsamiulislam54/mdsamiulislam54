@@ -32,6 +32,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
+#### ⚙️ Tools I Use  
+`VS Code` `Figma` `Photoshop` `Postman` `Git` `GitHub Desktop`
+
+
 <p align="start">
 
   <h1>Social Link</h1>
