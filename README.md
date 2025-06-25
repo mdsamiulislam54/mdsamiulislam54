@@ -13,46 +13,9 @@
   <b style="color: #3498db;">Shadullapur, Gaibandha</b>.
 </p>
 
-<div style="display: flex; justify-content: center; margin-top: 30;">
-  <a href="https://www.linkedin.com/in/mdsamiulislam54/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15;" />
-  </a>
-  <a href="https://github.com/mdsamiulislam54" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 15;" />
-  </a>
-  <a href="https://twitter.com/mdsamiulislam54" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
 
-<style>
-  /* Adding hover effects for links */
-  a: hover img {
-    transform: scale(1.1);
-    transition: all 0.3 ease;
-  }
 
-  /* Styling the introduction text */
-  p {
-    text-align: center;
-    background: #f9f9f9;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
-    margin: 0 auto;
-  }
 
-  /* Adding a fade-in effect for the page */
-  body {
-    animation: fadeIn 2s ease-out;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
 
 </p>
 
