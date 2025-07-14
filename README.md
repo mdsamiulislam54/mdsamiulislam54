@@ -1,4 +1,4 @@
-![banner](https://i.postimg.cc/mkJ1SrJM/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)
+![banner](https://i.postimg.cc/0Q46PCyK/linkedin-2.png)
 
 <h1 style="display: flex; align-items: center; justify-content: center; font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #333;">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px;" />
