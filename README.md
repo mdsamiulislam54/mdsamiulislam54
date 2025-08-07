@@ -1,4 +1,5 @@
-![banner](https://i.postimg.cc/0Q46PCyK/linkedin-2.png)
+<img width="1584" height="396" alt="LinkedIn banner new" src="https://github.com/user-attachments/assets/f18705f8-a410-492d-9606-bcc8ebc6b285" />
+
 
 <h1 style="display: flex; align-items: center; justify-content: center; font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #333;">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px;" />
