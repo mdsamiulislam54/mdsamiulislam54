@@ -5,10 +5,7 @@
 
 
 
-<div style="font-family: 'Arial', sans-serif; font-size: 1.2; color: #555; line-height: 1.8; align="center"; ">
 
- <h3 style="align="center"> Frontend Developer | Skilled in HTML, CSS, Tailwind CSS, JavaScript & React | 2+ years of hands-on project experience.</h1>
-</div>
 
 
 
@@ -17,6 +14,8 @@
 
 
 <div align="center">
+  <h3 style="align="center"> Frontend Developer | Skilled in HTML, CSS, Tailwind CSS, JavaScript & React | 1.5+ years of hands-on project experience.</h1>
+ 
 <h1>🛠 Skills</h1> 
 
  
@@ -31,12 +30,6 @@
 | |  |
 |-------|------------|
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
-
-
-
 
 <h1>⚙️ Tools </h1> 
 
@@ -86,4 +79,12 @@
   </a>
   
 </p>
+
+
+
+</div>
+
+
+
+
 
