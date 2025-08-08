@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="LinkedIn banner new" src="https://github.com/user-attachments/assets/f18705f8-a410-492d-9606-bcc8ebc6b285" />
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/075b3051-4a80-4cfc-ae05-54406e6a65c2" />
+
 
 
 <h1 style="display: flex; align-items: center; justify-content: center; font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #333;">
