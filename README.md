@@ -3,10 +3,7 @@
 
 
 
-<h1 style="display: flex; align-items: center; justify-content: center; font-family: 'Arial', sans-serif; font-size: 2.5rem; color: #333;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-right: 10px;" />
-  Hey! Nice to see you.
-</h1>
+
 
 <p style="font-family: 'Arial', sans-serif; font-size: 1.2; color: #555; line-height: 1.8;">
   Welcome to my page! <br/>
