@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/075b3051-4a80-4cfc-ae05-54406e6a65c2" />
+
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4bf48179-5da4-44a0-872b-476052bebf95" />
 
 
 
