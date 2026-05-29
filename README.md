@@ -1,5 +1,6 @@
 
-<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4bf48179-5da4-44a0-872b-476052bebf95" />
+<img width="2061" height="763" alt="ChatGPT Image May 29, 2026, 11_53_40 AM" src="https://github.com/user-attachments/assets/c24b1dc5-ab56-4dd1-87e3-a487ad582183" />
+
 
 
 
